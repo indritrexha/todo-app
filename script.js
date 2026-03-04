@@ -1,5 +1,3 @@
-alert("JS is working");
-
 const taskInput =
 document.getElementById("taskInput");
 const addBtn =
